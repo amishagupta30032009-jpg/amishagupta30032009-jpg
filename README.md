@@ -1,26 +1,79 @@
-## Hi there 👋
+# Hi 👋 I'm Amisha 💫 
 
-# 💫 About Me:
-I am a bca students in 1st year 
+💻 Tech Learner | Aspiring Software Developer | Digital Skills Explorer  
 
+![Profile Views](https://github.com/account)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amisha-kumari-gupta-aa4309399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## ✨ About Me
+I’m a passionate and dedicated learner exploring the world of **programming, web development, and digital technologies**.  
+I enjoy building beginner-friendly projects, experimenting with code, and continuously improving my skills.
 
+I believe in **learning by doing**, consistency, and growing step by step toward professional excellence.
 
---
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**amishagupta30032009-jpg/amishagupta30032009-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Programming Fundamentals  
+- Web Development  
+- Logic Building & Problem Solving  
+- Digital Literacy & Tools  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m a student
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on
-- 💬 Ask me about ...
-- 📫 How to reach me: amishagupta@gmail.com
--->
+## 💡 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,git,github,vscode" />
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+- Visual Studio Code  
+- Git & GitHub  
+- Web Browsers  
+- Command Line Basics  
+
+---
+
+## 🚀 Career Goals
+- Build real-world, impactful projects  
+- Strengthen programming and logical thinking  
+- Gain hands-on experience through internships  
+- Learn modern frameworks and technologies  
+- Contribute to open-source projects  
+- Grow into a confident software developer  
+
+---
+
+## 📌 Featured Projects
+- 🌐 **Portfolio Website** – Responsive personal portfolio  
+- 🧮 **Pattern Logic Tool** – Logic-based mini project in C  
+- 🔐 **Login Page UI** – HTML & CSS authentication design  
+
+*(More projects coming soon…)*
+
+---
+
+## 📜 Certificates & Learning
+- Digital Literacy Program  
+- Programming Fundamentals (Beginner Level)  
+- Hands-on Mini Projects & Practice  
+
+*(Continuously learning and upgrading skills)*
+
+---
+## 🤝 Connect With Me
+<p align="left">
+<a href="mailto:amishagupta30032009@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com">
+  <img src="www.linkedin.com/in/amisha-kumari-gupta-aa4309399"/>
+</a>
+</p>
+
+---
+
+🌸 *Always learning • Always growing • Building my future with code*
